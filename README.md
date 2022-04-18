@@ -1,4 +1,4 @@
-## Laravel 9 + Vue CLI 5 + Authentication
+## Laravel 9 + Vue CLI 5 + Authentication + Buefy | STARTER
 Example config your Laravel project
 
 ## Steps for Scaffolding From Scratch
